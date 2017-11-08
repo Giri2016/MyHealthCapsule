@@ -1,0 +1,13 @@
+{
+  "name": "ionLogin-3",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "default",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ],
+  "documentRoot": "www"
+}
